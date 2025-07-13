@@ -19,6 +19,7 @@
 - <b>Data Visualization Projects</b>
   - [Toue-de-France-Dashboard](https://github.com/Travoltah/Toue-de-France-Dashboard.git)
   - [Zim-Mental-Health-Analysis-Dashboard](https://github.com/Travoltah/Zim-Mental-Health-Analysis-Dashboard.git)
+  - [Zim-Health-Facility-Locator-Dashboard](https://github.com/Travoltah/Zim-Mental-Health-Analysis-Dashboard.git)
 - <b>Machine Learning Models</b>
   - [Zimbabwe-MNOs-Sentiment-Analysis](https://github.com/Travoltah/Zimbabwe-MNOs-Sentiment-Analysis.git)
   - [Loan Approval Prediction)](https://github.com/Travoltah/Loan-Approval-Prediction.git)
