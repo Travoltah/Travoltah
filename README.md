@@ -1,4 +1,24 @@
-<h1>Hi, I'm Trevor! <br/><a href="https://github.com/Travoltah">FinTech & Banking QA Specialist</a>, <a href="https://www.linkedin.com/in/trevor-kauyu/">Test Automation Architect</a>, <a href="https://github.com/Travoltah">Performance Tester </a> , <a href="https://github.com/Travoltah">Data Scientist </a></h1>
+<h1>Hi, I'm Trevor! </h1><h4> <a href="https://github.com/Travoltah">FinTech & Banking QA Specialist</a>, <a href="https://www.linkedin.com/in/trevor-kauyu/">Test Automation Architect</a>, <a href="https://github.com/Travoltah">Performance Tester </a> , <a href="https://github.com/Travoltah">Data Scientist </a></h4>
+
+Experienced QA Engineering Leader with over 8 years' experience in driving quality assurance initiatives across banking and fintech sectors. Adept at test automation, manual testing, performance testing, and systems analysis, delivering robust and reliable software solutions to meet dynamic business requirements. Demonstrates expertise in building and leading QA teams, designing scalable test automation frameworks, and optimizing processes to ensure faster, high-quality feature delivery.
+
+Possesses in-depth knowledge of emerging technologies such as Big Data Analytics, Machine Learning, and Artificial Intelligence, combined with strong technical proficiency in tools and programming languages like Python, R, Pandas, NumPy, TensorFlow, SSIS, and ETL development. Proficient in CI/CD pipeline integration, database management, and reporting, ensuring seamless deployments and data-driven insights.
+
+Renowned for collaborative leadership, effective communication, and a solutions-oriented mindset, with the ability to work independently or lead cross-functional teams to deliver under tight deadlines. Committed to advancing organizational quality standards and exceeding stakeholder expectations by leveraging cutting-edge tools and methodologies.
+
+## 🔧 Skills & Technologies
+
+| Skill                                         | Tools/Technologies        |
+|-----------------------------------------------|----------------------------|
+| API Test Automation          | Selenium WebDriver (Java, Python, or JavaScript), RESTful & SOAP Web Services, Swagger, OpenAPI |
+| UI Test Automation           | Rest Assured (Java), Allure & Extent Reports |
+| Frameworks                   | Page Object Model, Data-Driven |
+| Performance Testing          | Apache JMeter, BlazeMeter |
+| API Testing & Documentation  | Postman, APIDog, Insonmia, RESTful & SOAP Web Services, Swagger, OpenAPI |
+| Dependancy Management        | Maven, Gradle |
+| CI/CD & DevOps               | Jenkins, Git, Github, GitLab, Bitbucket |
+| Languages                    | Java, C#, Python, SQL |
+| Project & Test Management    | Agile, Scrum, Kanban, Jira, TestRail, Confluence, Shift-Left Testing |
 
 <h2>👨‍💻 Software QA Testing Projects:</h2>
 
